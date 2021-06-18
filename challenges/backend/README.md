@@ -16,16 +16,9 @@ Run the command:
 npm start
 ```
 
-# 3. HOW TO TEST?
+# HOW TO TEST?
 
 Run the command:
 ```
 npm test
-```
-
-# 4. HOW TO SEE THE COVERAGE?
-
-You can run the following commands:
-```
-npm run coverage
 ```
