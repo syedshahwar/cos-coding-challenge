@@ -1,4 +1,4 @@
-`The project was developed just to resolve the CarOnSale Challenge`
+The project was developed just to solve the CarOnSale Challenge
 
 # HOW TO SETUP AND RUN PROJECT
 # SETUP
