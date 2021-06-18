@@ -9,14 +9,14 @@
 npm install
 ```
 
-# HOW TO RUN?
+# TO RUN
 
 Run the command:
 ```
 npm start
 ```
 
-# HOW TO TEST?
+# TO TEST
 
 Run the command:
 ```
