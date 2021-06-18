@@ -6,7 +6,7 @@
 - Install node.js
 - Run the command: 
 ```
-npm run start
+npm install
 ```
 
 # HOW TO RUN?
